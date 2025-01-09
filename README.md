@@ -1,4 +1,6 @@
-# template_project
+Nama: Siti Fatimah Ayu Lestari
+Kelas: 2A_TRPL
+nim :362358302013
 
 A new Flutter project.
 
